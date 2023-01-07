@@ -8,7 +8,7 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background-color: #080808;
+    background-color: darkblue;
     color: #fff;
 }
 #header{
@@ -173,7 +173,7 @@ nav ul li a:hover::after{
 
 }
 .Projects-list div:hover{
-    background: #4400f0;
+    background: greenyellow;
     transform: translateY(-10px);
 }
 
